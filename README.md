@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/eros-achillea-078b18141/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  
+</p>
+
 <!--
 **Eros-code/Eros-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

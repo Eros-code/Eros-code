@@ -1,5 +1,5 @@
 
-<h1 align='center'> ⭐ Hello 👋 My name is Eros ⭐</h1>
+<h1 align='center'> 🔳 Hello 👋 My name is Eros 🔳</h1>
 
 <p align='center'>
   I'm an aspiring data engineer.

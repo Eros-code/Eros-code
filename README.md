@@ -9,6 +9,10 @@
   
 </p>
 
+<p align='center'>
+  I'm an aspiring data engineer.
+</p>
+
 <!--
 **Eros-code/Eros-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

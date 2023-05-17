@@ -2,15 +2,15 @@
 <h1 align='center'> Hello 👋 My name is Eros 💻 </h1>
 
 <p align='center'>
+  I'm an aspiring data engineer.
+</p>
+
+<p align='center'>
   
   <a href="https://www.linkedin.com/in/eros-achillea-078b18141/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   
-</p>
-
-<p align='center'>
-  I'm an aspiring data engineer.
 </p>
 
 <!--

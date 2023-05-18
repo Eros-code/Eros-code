@@ -49,12 +49,11 @@
 <summary>
   <h2> 🎓 Education </h2>
   </summary>
-  <h4> QUEEN MARY UNIVERSITY, Physics Bsc (Hons), 1st class. </h4>
-
+  <h4> QUEEN MARY UNIVERSITY, Physics Bsc (Hons), 1st class. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(London, UK 2018-2021)
+ </h4>
+<br>
 <p> - Statistical Data Analysis (94.9%) – Use of python to implement statistical analysis techniques such as chi-squared scan, hypothesis testing, weighted averages, likelihood functions and p-values. </p>
-
 <p> - Introduction to Machine learning (91%) – Use of R to implement machine learning techniques such as principal component analysis, K-means clustering, Ridge and Lasso. </p>
-  
 <p> - Introduction to Scientific Computing (86.9%) – Exploration of numerical computational techniques such as differentiation, integration, matrices and ordinary differential equations using python. </p>
 
 </details>

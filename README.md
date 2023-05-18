@@ -21,7 +21,7 @@
 
 - 🎸 My hobbies include: playing the guitar, boxing, reading and going to the gym.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eros-achillea-078b18141/)
 
 <h2> :hammer_and_wrench: Languages and Tools </h2>
 

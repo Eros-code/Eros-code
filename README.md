@@ -23,7 +23,7 @@
 
 - 🎸 My hobbies include: playing the guitar, boxing, reading and going to the gym.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eros-achillea-078b18141/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eros-achillea-078b18141/) or try my email <a href='mailto:eros.achillea@outlook.com'>eros.achillea@outlook.com</a>
   
 <h2> :hammer_and_wrench: Languages and Tools </h2>
 <div>
@@ -45,25 +45,20 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<details>
-<summary>
-  <h2> 🎓 Education </h2>
-  </summary>
-  <h4> QUEEN MARY UNIVERSITY, Physics Bsc (Hons), 1st class. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(London, UK 2018-2021)
- </h4>
-<br>
-<p> - Statistical Data Analysis (94.9%) – Use of python to implement statistical analysis techniques such as chi-squared scan, hypothesis testing, weighted averages, likelihood functions and p-values. </p>
-<p> - Introduction to Machine learning (91%) – Use of R to implement machine learning techniques such as principal component analysis, K-means clustering, Ridge and Lasso. </p>
-<p> - Introduction to Scientific Computing (86.9%) – Exploration of numerical computational techniques such as differentiation, integration, matrices and ordinary differential equations using python. </p>
+## 🎓 Education
+  - 📖 **Physics Bsc (Hons)** - 1st class.\
+  📆 2018 - 2021\
+  📍 **Queen Mary University** - London, UK
+  
+## 📁 Experience
 
-</details>
-
-
-<details>
-<summary>
-<h2> 📁 Experience </h2>
-  </summary>
-</details>
+  - 📖 **Junior Software & Data Engineer trainee**\
+  📆 Oct 2022 - Feb 2023\
+  📍 **SIGMA LABS XYZ** - London, UK
+  
+  - 📖 **Quantum Computing Intern**\
+  📆 Jun 2021 – Aug 2021\
+  📍 **Ionic Quantum Technology group** - Brighton, UK
 
 <details>
 <summary>

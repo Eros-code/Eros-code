@@ -3,17 +3,13 @@
 
 <h1 align='center'> Welcome to my github profile! </h1>
 
-<p align='center'>
-  I'm an aspiring data engineer.
-</p>
-
-<p align='center'>
+<div id=badges align='center'>
   
   <a href="https://www.linkedin.com/in/eros-achillea-078b18141/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   
-</p>
+</div>
 
 <!--
 **Eros-code/Eros-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

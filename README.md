@@ -52,11 +52,11 @@
   
 ## 📁 Experience
 
-  - 📖 **Junior Software & Data Engineer trainee**\
+  - 👨‍💻 **Junior Software & Data Engineer trainee**\
   📆 Oct 2022 - Feb 2023\
   📍 **SIGMA LABS XYZ** - London, UK
   
-  - 📖 **Quantum Computing Intern**\
+  - 👨‍💻 **Quantum Computing Intern**\
   📆 Jun 2021 – Aug 2021\
   📍 **Ionic Quantum Technology group** - Brighton, UK
 

@@ -13,8 +13,6 @@
   
 </div>
 
----
-
 <h2> :man_technologist: About me </h2>
 
 - :telescope: I have recently completed a data engineering graduate program with Sigma Labs and looking for my first role as a data engineer.

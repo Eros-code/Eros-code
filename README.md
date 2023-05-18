@@ -11,7 +11,10 @@
   
 </div>
 
-<h2> :man_technologist: About me</h2>
+<details>
+<summary>
+<h2> :man_technologist: About me </h2>
+</summary>
 
 - :telescope: I have recently completed a data engineering graduate program with Sigma Labs and looking for my first role as a data engineer.
 
@@ -22,14 +25,32 @@
 - 🎸 My hobbies include: playing the guitar, boxing, reading and going to the gym.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eros-achillea-078b18141/)
+  
+</details>
 
+<details>
+<summary>
 <h2> :hammer_and_wrench: Languages and Tools </h2>
+  </summary>
+</details>
 
+<details>
+<summary>
 <h2> 🎓 Education </h2>
+  </summary>
+</details>
 
+<details>
+<summary>
 <h2> 📁 Experience </h2>
+  </summary>
+</details>
 
+<details>
+<summary>
 <h2> 👷 Data engineering projects </h2>
+</summary>
+</details>
 <!--
 **Eros-code/Eros-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

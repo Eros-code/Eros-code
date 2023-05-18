@@ -11,16 +11,19 @@
   
 </div>
 
---- 
+<h1> About me</h1>
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I have recently completed a data engineering graduate program with Sigma Labs and looking for my first role as a data engineer.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Planning to explore more technologies like spark, databricks and snowflake.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: Im naturally a curious person, so in my free time, I like to learn new things by completing online courses and virtual experiences.
+
+- 🎸 My hobbies include: playing the guitar, boxing, reading and going to the gym.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-- 
+
+<h1> Languages and Tools </h1>
 <!--
 **Eros-code/Eros-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

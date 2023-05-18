@@ -25,6 +25,10 @@
 
 <h2> :hammer_and_wrench: Languages and Tools </h2>
 
+<h2> 🎓 Education </h2>
+
+<h2> 📁 Experience </h2>
+
 <h2> 👷 Data engineering projects </h2>
 <!--
 **Eros-code/Eros-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

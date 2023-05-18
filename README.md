@@ -11,6 +11,8 @@
   
 </div>
 
+---
+
 <details>
 <summary>
 <h2> :man_technologist: About me </h2>
@@ -51,6 +53,8 @@
 <h2> 👷 Data engineering projects </h2>
 </summary>
 </details>
+
+---
 <!--
 **Eros-code/Eros-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

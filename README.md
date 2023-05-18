@@ -11,7 +11,7 @@
   
 </div>
 
-<h2> About me</h2>
+<h2> :man_technologist: About me</h2>
 
 - :telescope: I have recently completed a data engineering graduate program with Sigma Labs and looking for my first role as a data engineer.
 
@@ -23,7 +23,7 @@
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
-<h2> Languages and Tools </h2>
+<h2> :hammer_and_wrench: Languages and Tools </h2>
 
 <h2> Data engineering projects </h2>
 <!--

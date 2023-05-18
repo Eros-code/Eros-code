@@ -1,5 +1,7 @@
 
-<p align='center'>  <img src="header.png" /> </p>
+<!-- <p align='center'>  <img src="header.png" /> </p> -->
+
+<p font-size=30px align='center'> Hi 👋, my name is Eros Achillea </p>
 
 <h1 align='center'> Welcome to my github profile! </h1>
 

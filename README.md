@@ -1,7 +1,7 @@
 
 <p align='center'>  <img src="header.png" /> </p>
 
-
+<h1 align='center'> Welcome to my github profile! </h1>
 
 <p align='center'>
   I'm an aspiring data engineer.

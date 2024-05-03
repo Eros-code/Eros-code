@@ -21,9 +21,9 @@
 
 <h2> :man_technologist: About me </h2>
 
-- :telescope: I have recently completed a data engineering graduate program with Sigma Labs and looking for my first role as a data engineer.
+- :telescope: Currently doing work as a junior technology consultant for Sigma Labs.
 
-- :seedling: Planning to explore more technologies like spark, databricks and snowflake.
+- :seedling: Learning how to use Scala, Intellij and working with jenkins + terraform files to deploy code to QA and production environments.
 
 - :zap: Im naturally a curious person, so in my free time, I like to learn new things by completing online courses and virtual experiences.
 
@@ -57,6 +57,10 @@
   📍 **Queen Mary University** - London, UK
   
 ## 📁 Experience
+
+  - 👨‍💻 **Junior Technology Consultant**\
+  📆 Aug 2023 - Present\
+  📍 **SIGMA LABS XYZ** - London, UK
 
   - 👨‍💻 **Junior Software & Data Engineer trainee**\
   📆 Oct 2022 - Feb 2023\
